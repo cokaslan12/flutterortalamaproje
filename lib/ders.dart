@@ -7,6 +7,6 @@ class Ders {
   @override
   String toString() {
     // TODO: implement toString
-    return "$ad $harfdegeri $kredidegeri";
+    return "Öğrenci adı : ${ad} Harf değeri : ${harfdegeri} Kredi değeri :${kredidegeri}";
   }
 }
